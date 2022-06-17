@@ -7,6 +7,7 @@ slug: becoming-devops-eng
 categories: ["Career Advice"]
 tags: ["DevOps"]
 toc: true
+showComments: false 
 ---
 
 ## Introduction
